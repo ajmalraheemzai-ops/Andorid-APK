@@ -1,0 +1,8 @@
+{
+  "name": "Todo & Fitness Tracker",
+  "description": "Minimal Android todo and fitness tracker with an intelligent daily planner and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
